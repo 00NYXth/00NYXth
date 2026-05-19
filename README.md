@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0,0d1117,39d353&height=150&section=header&text=Alexandru%20Popescu&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Sales%20%26%20Business%20Development%20·%20Tech%20Specialist&descAlignY=60&descSize=16&descColor=39d353)
+<img width="2550" height="690" alt="github-header-banner" src="https://github.com/user-attachments/assets/d5fb929d-3a96-44cc-b6e6-e755254bf0b4" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
@@ -45,10 +45,9 @@ I pick up new skills quickly, adapt well to changing environments, and believe t
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=00NYXth&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=00NYXth&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" width="48%" />
-</p>
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=00NYXth)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
