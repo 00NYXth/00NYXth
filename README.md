@@ -35,25 +35,17 @@ I pick up new skills quickly, adapt well to changing environments, and believe t
 
 ---
 
-### 🚀 Projects
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=00NYXth&theme=react&hide_border=false" alt="GitHub Streak" />
+</div>
 
-*   **[Task Manager App](#)** - WPF desktop app for managing personal tasks with local DB persistence. *(C#, .NET, WPF, MySQL)*
-*   **[Sales Pipeline Tracker](#)** - Tool to track leads, follow-ups, and deal stages — bridging sales & software. *(C#, MySQL, WinForms)*
-*   **[Inventory System](#)** - Inventory management with CRUD operations and basic reporting. *(C#, .NET, MySQL)*
-
----
-
-### 📈 GitHub Stats
-
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=00NYXth)](https://github.com/anuraghazra/github-readme-stats)
-
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=00NYXth&theme=react&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+</div>
 
 ---
 
 ### 🎯 Currently Working On
 ```text
 ▸ CRM tools & workflows         (HubSpot, Salesforce)
-▸ REST API development          (.NET / ASP.NET Core)
-▸ Consultative selling          (frameworks & strategy)
 ▸ Business development          (client acquisition & retention)
