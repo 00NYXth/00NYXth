@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a driven individual at the start of my career, with a genuine passion for both people and technology. I thrive at the intersection of business and technical thinking — I can hold a strategic sales conversation in the morning and debug a .NET application in the afternoon.
+I'm a driven individual at the start of my career, with a genuine passion for both people and technology. I thrive at the intersection of business and technical thinking.
 
 I pick up new skills quickly, adapt well to changing environments, and believe that curiosity is the most valuable asset. I'm currently pursuing opportunities in **Sales and Business Development**, where my technical background gives me a distinct edge.
 
